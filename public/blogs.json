@@ -1,0 +1,53 @@
+[
+    {
+      "id": "9781538719560",
+      "cover": "https://i.ibb.co/ctGCGVf/The-Night-Circus.jpg",
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "author_img": "https://i.ibb.co/KsKJHSc/woman-checking-her-phone.jpg",
+      "posted_date": "2024-03-04",
+      "reading_time": 8 ,
+      "hashtags": ["#Fantasy", "#Magic", "#Romance"]
+    },
+    {
+      "id": "9781594634024",
+      "cover": "https://i.ibb.co/6v2bCL3/Big-Magic-Creative-Living-Beyond-Fear.jpg",
+      "title": "Big Magic: Creative Living Beyond Fear",
+      "author": "Elizabeth Gilbert",
+      "author_img": "https://i.ibb.co/whJLf7Z/portrait-young-bearded-man-reading-book.jpg",
+      "posted_date": "2024-03-03",
+      "reading_time": 6 ,
+      "hashtags": ["#Creativity", "#Inspiration", "#SelfHelp"]
+    },
+    {
+      "id": "9780812988406",
+      "cover": "https://i.ibb.co/rwG54Mb/The-Martian.jpg",
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "author_img": "https://i.ibb.co/NZQJGW4/business-man-by-skyscraper.jpg",
+      "posted_date": "2024-03-02",
+      "reading_time": 9,
+      "hashtags": ["#ScienceFiction", "#Adventure", "#Survival"]
+    },
+    {
+      "id": "9780385537858",
+      "cover": "https://i.ibb.co/yX7VWPH/Station-Eleven.jpg",
+      "title": "Station Eleven",
+      "author": "Emily St. John Mandel",
+      "author_img": "https://i.ibb.co/9Tyn4nh/happy-woman-glasses-standing-wall.jpg",
+      "posted_date": "2024-03-01",
+      "reading_time": 7,
+      "hashtags": ["#Dystopian", "#LiteraryFiction", "#Pandemic"]
+    },
+    {
+      "id": "9780345803631",
+      "cover": "https://i.ibb.co/gmcKNf4/The-Goldfinch.jpg",
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "author_img": "https://i.ibb.co/Bg9t1Nb/smiling-lawyer-posing.jpg",
+      "posted_date": "2024-02-29",
+      "reading_time": 10,
+      "hashtags": ["#LiteraryFiction", "#Art", "#ComingOfAge"]
+    }
+  ]
+  
